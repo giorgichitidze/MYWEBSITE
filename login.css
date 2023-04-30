@@ -1,0 +1,50 @@
+body{
+    background: rgb(7,12,189);
+    font-family: Helvetica;
+  
+}
+
+.LogInContainer{
+
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+
+h1{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid black 1px;
+    
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 30px;
+   
+}
+
+a{
+    font-size: small;
+    text-decoration: none;
+}
+
+button{
+    width: 60%;
+    background-color: aqua;
+    border-radius: 5px;
+    font-size: medium;
+    border: none;
+   
+}
+
+
